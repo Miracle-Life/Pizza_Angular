@@ -21,7 +21,7 @@ import { BodyContactComponent } from './body/body-contact/body-contact.component
     BodyHomeComponent,
     BodyOrderComponent,
     BodyAboutUsComponent,
-    BodyContactComponent
+    BodyContactComponent,
   ],
   imports: [
     BrowserModule,
